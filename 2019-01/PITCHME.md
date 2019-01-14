@@ -219,6 +219,7 @@ Still for the context, other projects we are using behind the scenes.
 @ul[](false)
 - Find something that interests you and start participating
 - If you don't know what to contribute to, consider helping with OpenSUSE in OpenStack
+- This is a group responsibility: let's do this together
 @ulend
 
 ---
@@ -230,3 +231,4 @@ Still for the context, other projects we are using behind the scenes.
 - Do you know what projects or initiatives you would like to help with?
 - Do you feel prepared to make a contribution upstream?
 - What needs to change at SUSE to enable you to contribute upstream?
+- How can we organize this as a group?
