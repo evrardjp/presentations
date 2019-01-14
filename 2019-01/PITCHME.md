@@ -185,8 +185,17 @@ Still for the context, other projects we are using behind the scenes.
 
 @ul[](false)
 - Currently, openSUSE is not listed in [popular distros](https://governance.openstack.org/tc/reference/project-testing-interface.html#pti-linux-distros).
-- openSUSE is used not only crowbar and Ardana, it's used in other places in the community.
-- Please help projects (give support in the OpenSUSE image builds in infra/dib, in rpm-packaging).
+- openSUSE is used not only Crowbar and Ardana, it's used in other places in the community.
+- Please help projects (give support in the openSUSE image builds in infra/dib, in rpm-packaging).
+@ulend
+
++++
+
+![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/contributions1.png?raw=true)
+
++++
+
+![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/contributions2.png?raw=true)
 
 ---
 @title[Call to action]
@@ -209,4 +218,3 @@ Discussion:
 - Do you know what projects or initiatives you would like to help with?
 - Do you feel prepared to make a contribution upstream?
 - What needs to change at SUSE to enable you to contribute upstream?
-@ulend
