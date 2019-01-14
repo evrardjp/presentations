@@ -161,7 +161,6 @@ For the context, here is a list of projects part of our product
 @title[Context: What we are using behind the scenes]
 
 @ul[](false)
-- openstack-ansible
 - infra
 - i18n/docs
 - requirements
