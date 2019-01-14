@@ -178,6 +178,8 @@ Note:
 
 Still for the context, other projects we are using behind the scenes.
 
+---?image=assets/img/cloud-community.jpg
+
 ---
 @title[What about SUSE in the community?]
 
