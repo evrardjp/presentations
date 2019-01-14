@@ -42,7 +42,7 @@ Note:
 @snapend
 
 @snap[midpoint]
-#### Why would I want to be an OpenStack Hero?
+#### Why would I want to contribute upstream?
 @snapend
 
 Note:
@@ -101,7 +101,7 @@ Note:
 @title[Where to help]
 
 @snap[north-west]
-Heroes wanted...
+Contributors wanted...
 @snapend
 
 @snap[west list-content-verbose span-100]
