@@ -126,11 +126,11 @@ Note:
 @ul[](false)
 - rpm-packaging
 - OpenStack-Helm
-- Keystone
-- Nova
-- Cinder
-- Glance
-- Neutron
+- keystone
+- nova
+- cinder
+- glance
+- neutron
 - oslo
 - swift
 - manila
