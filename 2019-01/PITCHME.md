@@ -224,8 +224,6 @@ Help support OpenSUSE in OpenStack by:
 
 #### What's next?
 
-Discussion:
-
 @ul[](false)
 - Do you know what projects or initiatives you would like to help with?
 - Do you feel prepared to make a contribution upstream?
