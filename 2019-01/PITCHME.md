@@ -30,11 +30,11 @@ Note:
 @snapend
 
 @snap[north-east span-45]
-@box[bg-orange text-white demo-box-step-padding rounded](Ethics#You can't sell a product without raw material)
+@box[bg-orange text-white demo-box-step-padding rounded](Responsibility#As one of the primary consumers of OpenStack we have a responsibility to invest back)
 @snapend
 
 @snap[south-west span-45]
-@box[bg-blue text-white demo-box-step-padding rounded](Self-actualisation#Increase your potential and learn how to better solve problems)
+@box[bg-blue text-white demo-box-step-padding rounded](Self-improvement#Become subject matter experts in order to fix bugs quicker and support customers better)
 @snapend
 
 @snap[south-east span-45]
