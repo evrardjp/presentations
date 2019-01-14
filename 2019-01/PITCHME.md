@@ -11,7 +11,10 @@ Note:
 
 @title[This presentation]
 
-#### This is an interactive session, shape it the way you want it!
+#### This slidedeck is interactive and has links!
+
+![](assets/qrcode-to-slides.png?raw=true)
+
 
 Note:
 
