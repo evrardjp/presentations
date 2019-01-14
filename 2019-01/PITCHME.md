@@ -197,8 +197,8 @@ Still for the context, other projects we are using behind the scenes.
 #### Help support OpenSUSE in OpenStack by:
 
 @ul[](false)
-- Helping provide stable support for OpenSUSE images by helping maintain diskimage-builder, supporting the mirrors for the OpenDev (nee OpenStack) Infra team
-- Help support community packages by contributing to the rpm-packaging project and keeping the Cloud:OpenStack:* OBS projects stable
+- Helping provide stable support for OpenSUSE images by helping maintain diskimage-builder, supporting the mirrors for the Infra team
+- Help support community packages by contributing to the rpm-packaging project and keeping the OpenStack and openSUSE distro packages stable
 @ulend
 
 +++
