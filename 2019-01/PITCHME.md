@@ -64,6 +64,7 @@ How to get started?
   [Code contributor guidelines @fa[external-link]](https://docs.openstack.org/contributors/)
 - [Be in touch with First contact SIG @fa[external-link]](https://wiki.openstack.org/wiki/First_Contact_SIG)
 - Fix low-hanging fruit items
+- Read and update the project documentation
 - Be active in the project: Meetings, office hours
 - Be proactive: Code reviews
 @olend
