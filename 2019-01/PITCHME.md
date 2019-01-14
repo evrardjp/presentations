@@ -190,7 +190,9 @@ Still for the context, other projects we are using behind the scenes.
 - We need a better, more sustainable support for the community and take care of issues before they arise
 @ulend
 
-Help support OpenSUSE in OpenStack by:
++++
+
+#### Help support OpenSUSE in OpenStack by:
 
 @ul[](false)
 - Helping provide stable support for OpenSUSE images by helping maintain diskimage-builder, supporting the mirrors for the OpenDev (nee OpenStack) Infra team
