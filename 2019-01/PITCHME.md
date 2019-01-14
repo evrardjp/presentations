@@ -38,7 +38,7 @@ Note:
 @snapend
 
 @snap[south-east span-45]
-@box[bg-pink text-white demo-box-step-padding rounded](Belongingness#Building relationships helps. Achieve more by earning trust and building credibility)
+@box[bg-pink text-white demo-box-step-padding rounded](Belongingness#Building relationship helps. Achieve more by earning trust and building credibility)
 @snapend
 
 @snap[midpoint]
