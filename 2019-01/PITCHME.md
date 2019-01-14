@@ -181,3 +181,25 @@ Still for the context, other projects we are using behind the scenes.
 ---
 @title[What's in it for SUSE?]
 
+---
+@title[Call to action]
+
+#### Call to action
+
+@ul[](false)
+- Find something that interests you and start participating
+- If you don't know what to contribute to, consider helping with OpenSUSE in OpenStack
+@ulend
+
+---
+@title[What's next?]
+
+#### What's next?
+
+Discussion:
+
+@ul[](false)
+- Do you know what projects or initiatives you would like to help with?
+- Do you feel prepared to make a contribution upstream?
+- What needs to change at SUSE to enable you to contribute upstream?
+@ulend
