@@ -13,7 +13,7 @@ Note:
 
 #### This slidedeck is interactive and has links!
 
-![](assets/qrcode-to-slides.png?raw=true)
+![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/qrcode-to-slides.png?raw=true)
 
 
 Note:
