@@ -50,8 +50,8 @@ Note:
 
 Note:
 
-- For Ethics: What I mean by that is that if we selling an (OpenStack) product, we have a responsability to invest in its raw material, the upstream projects.
-- For Self-actualisation: If you are active in an upstream project, you will learn its code, its people, helping you grow your skills, know more about the project code (That will help you in product design, in solving customer problems, and many others).
+- For Reponsibility: What I mean by that is that if we selling an (OpenStack) product, we have a responsability to invest in its raw material, the upstream projects.
+- For Self-improvement: If you are active in an upstream project, you will learn its code, its people, helping you grow your skills, know more about the project code (That will help you in product design, in solving customer problems, and many others).
 - For Belongingness: Everything is awesome when you're part of a team. Land emergency patches with the trust you earned, and help others in the same case to strengthen the bond. We are all in that **** together).
 
 ---
