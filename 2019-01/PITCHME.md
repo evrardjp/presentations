@@ -184,16 +184,22 @@ Still for the context, other projects we are using behind the scenes.
 #### What about SUSE in the community?
 
 @ul[](false)
-- Currently, openSUSE is not listed in [popular distros](https://governance.openstack.org/tc/reference/project-testing-interface.html#pti-linux-distros).
-- openSUSE is used not only Crowbar and Ardana, it's used in other places in the community.
+- OpenStack tests against openSUSE Leap using our packaging
+- When it breaks, they ping dirk on irc
+- Occassionally dirk is not available
+- We need to support the community and be fixing issues before they arise
 - Please help projects (give support in the openSUSE image builds in infra/dib, in rpm-packaging).
 @ulend
 
 +++
 
+#### State of openSUSE in the OpenStack community: Statistics
+
 ![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/contributions1.png?raw=true)
 
 +++
+
+#### State of openSUSE in the OpenStack community: Statistics
 
 ![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/contributions2.png?raw=true)
 
