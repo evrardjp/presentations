@@ -178,9 +178,11 @@ Note:
 
 Still for the context, other projects we are using behind the scenes.
 
----?image=assets/img/cloud-community.jpg
+---?image=2019-01/assets/cloud-community.jpg&size=cover
+@title[Community]
 
----
++++
+
 @title[What about SUSE in the community?]
 
 #### What about SUSE in the community?
