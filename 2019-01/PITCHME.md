@@ -179,7 +179,14 @@ Note:
 Still for the context, other projects we are using behind the scenes.
 
 ---
-@title[What's in it for SUSE?]
+@title[What about SUSE in the community?]
+
+#### What about SUSE in the community?
+
+@ul[](false)
+- Currently, openSUSE is not listed in [popular distros](https://governance.openstack.org/tc/reference/project-testing-interface.html#pti-linux-distros).
+- openSUSE is used not only crowbar and Ardana, it's used in other places in the community.
+- Please help projects (give support in the OpenSUSE image builds in infra/dib, in rpm-packaging).
 
 ---
 @title[Call to action]
