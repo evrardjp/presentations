@@ -179,7 +179,35 @@ Note:
 Still for the context, other projects we are using behind the scenes.
 
 ---
-@title[What's in it for SUSE?]
+@title[What about SUSE in the community?]
+
+#### What about SUSE in the community?
+
+@ul[](false)
+- OpenStack tests against openSUSE Leap using our packaging
+- When it breaks, they sometimes ping dirk on irc
+- And then... Sometimes... dirk is not available!
+- We need a better, more sustainable support for the community and take care of issues before they arise
+@ulend
+
+Help support OpenSUSE in OpenStack by:
+
+@ul[](false)
+- Helping provide stable support for OpenSUSE images by helping maintain diskimage-builder, supporting the mirrors for the OpenDev (nee OpenStack) Infra team
+- Help support community packages by contributing to the rpm-packaging project and keeping the Cloud:OpenStack:* OBS projects stable
+@ulend
+
++++
+
+#### What about SUSE in the community? Statistics!
+
+![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/contributions1.png?raw=true)
+
++++
+
+#### What about SUSE in the community? Statistics!
+
+![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/contributions2.png?raw=true)
 
 ---
 @title[Call to action]
@@ -202,4 +230,3 @@ Discussion:
 - Do you know what projects or initiatives you would like to help with?
 - Do you feel prepared to make a contribution upstream?
 - What needs to change at SUSE to enable you to contribute upstream?
-@ulend
