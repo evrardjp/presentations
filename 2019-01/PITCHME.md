@@ -169,7 +169,7 @@ For the context, here is a list of projects part of our product
 - qa
 - release
 - governance-(tc|uc)
-- sigs (self-healing, diversity, fc)
+- sigs (self-healing, diversity, first contact, api, security, upgrade, etc)
 @ulend
 
 Note:
