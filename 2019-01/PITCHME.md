@@ -13,7 +13,7 @@ Note:
 
 #### This slidedeck is interactive and has links!
 
-![](assets/qrcode-to-slides.png?raw=true)
+![](https://github.com/evrardjp/presentations/blob/master/2019-01/assets/qrcode-to-slides.png?raw=true)
 
 
 Note:
@@ -178,9 +178,11 @@ Note:
 
 Still for the context, other projects we are using behind the scenes.
 
----?image=assets/img/cloud-community.jpg
+---?image=2019-01/assets/cloud-community.jpg&size=cover
+@title[Community]
 
----
++++
+
 @title[What about SUSE in the community?]
 
 #### What about SUSE in the community?
